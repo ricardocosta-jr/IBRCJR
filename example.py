@@ -4,9 +4,9 @@
 from instabot import InstaBot
 
 bot = InstaBot(login="ricardocosta.jr", password="RCJR18",
-               like_per_day=600,
+               like_per_day=4800,
                comments_per_day=0,
-               tag_list=['motorsports','rallycar','motorsport'],
+               tag_list=['motorsports','rallycar','motorsport','racing','carsofinstagram','rally','peugeotsport','wrc'],
                max_like_for_one_tag=50,
                follow_per_day=60,
                follow_time=5*60*60,
